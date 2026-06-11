@@ -2,7 +2,7 @@
 
 Custom [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) WASM build with **Skia Graphite + Dawn (WebGPU)** backend, replacing the default Ganesh + WebGL backend.
 
-Built for [OpenPencil](https://github.com/nicepkg/open-pencil-app).
+Built for [OpenPencil](https://github.com/open-pencil/open-pencil).
 
 ## Why
 
@@ -77,6 +77,10 @@ skia_enable_ganesh = false
 skia_use_dawn = true
 skia_use_webgpu = true
 ```
+
+---
+
+Maintained as part of [OpenPencil](https://github.com/open-pencil) for the [OpenPencil editor](https://github.com/open-pencil/open-pencil).
 
 ## License
 

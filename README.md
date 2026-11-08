@@ -1,5 +1,7 @@
 # canvaskit-webgpu
 
+> **Discontinued.** This was an experiment with a Graphite + Dawn (WebGPU) CanvasKit build. OpenPencil does not use it, and the repository is archived.
+
 Custom [CanvasKit](https://skia.org/docs/user/modules/canvaskit/) WASM build with **Skia Graphite + Dawn (WebGPU)** backend, replacing the default Ganesh + WebGL backend.
 
 Built for [OpenPencil](https://github.com/open-pencil/open-pencil).
